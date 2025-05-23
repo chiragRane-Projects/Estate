@@ -38,8 +38,8 @@ A sleek and animated **Real Estate Landing Page** built using **React**, **Vite*
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/estate-landing-page.git
-cd estate-landing-page
+git clone https://github.com/your-username/Estate
+cd Estate
 
 # Install dependencies
 npm install
