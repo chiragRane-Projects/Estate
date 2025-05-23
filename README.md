@@ -25,6 +25,14 @@ A sleek and animated **Real Estate Landing Page** built using **React**, **Vite*
 
 ---
 
+---
+
+## 🌐 Live Preview
+
+👉 [Check it out here!](https://estate-au.netlify.app/)
+
+---
+
 ## 🛠️ Tech Stack
 
 - [React](https://reactjs.org/)
