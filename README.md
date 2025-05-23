@@ -1,12 +1,69 @@
-# React + Vite
+🏡 Estate — Real Estate Landing Page
+A sleek, modern real estate landing page built with React, powered by Vite, styled with Tailwind CSS, and animated using Framer Motion.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Inspired by the awesome work from the GreatStack YouTube channel.
 
-Currently, two official plugins are available:
+🚀 Tech Stack
+⚛️ React + Vite – Blazing fast frontend bundling with Hot Module Replacement (HMR)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Tailwind CSS – Utility-first CSS framework for styling
 
-## Expanding the ESLint configuration
+🎞️ Framer Motion – Fluid animations and transitions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📁 Project Structure follows a clean, component-based architecture
+
+🖼️ Features
+Hero section with CTA
+
+Featured properties carousel
+
+Responsive grid layout for listings
+
+Clean UI/UX with subtle animations
+
+Fully responsive and mobile-friendly
+
+📸 Preview
+
+Add a screenshot or GIF here once you have one.
+
+🛠️ Getting Started
+Clone the repo:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/estate-landing-page.git
+cd estate-landing-page
+Install dependencies:
+
+bash
+Copy
+Edit
+npm install
+Start the dev server:
+
+bash
+Copy
+Edit
+npm run dev
+⚙️ Scripts
+npm run dev – start development server
+
+npm run build – build for production
+
+npm run preview – preview production build
+
+npm run lint – run ESLint
+
+📦 Deployment
+You can deploy this site to Netlify, Vercel, or any static hosting platform.
+
+💡 Inspiration
+This project was inspired by a UI/UX tutorial from GreatStack. Check them out for awesome frontend content.
+
+📬 Feedback
+Have ideas or improvements? Feel free to fork or raise an issue!
+
+📄 License
+MIT — Do what you want, just don't sell it as-is and call it your own 😉
