@@ -20,9 +20,9 @@ const Navbar = () => {
             <img src={assets.logo} alt=''/>
             <ul className='hidden md:flex gap-7 text-white'>
                 <a href="#Header" className='cursor-pointer hover:text-gray-400 transition-all duration-300'>Home</a>
-                <a href="#Header" className='cursor-pointer hover:text-gray-400 transition-all duration-300'>About</a>
-                <a href="#Header" className='cursor-pointer hover:text-gray-400 transition-all duration-300'>Projects</a>
-                <a href="#Header" className='cursor-pointer hover:text-gray-400 transition-all duration-300'>Testimonials</a>
+                <a href="#About" className='cursor-pointer hover:text-gray-400 transition-all duration-300'>About</a>
+                <a href="#Projects" className='cursor-pointer hover:text-gray-400 transition-all duration-300'>Projects</a>
+                <a href="#Testimonials" className='cursor-pointer hover:text-gray-400 transition-all duration-300'>Testimonials</a>
             </ul>
 
             <button className='hidden md:block bg-white px-8 py-2 rounded-full'>Sign Up</button>
