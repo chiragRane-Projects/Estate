@@ -21,7 +21,7 @@ A sleek and animated **Real Estate Landing Page** built using **React**, **Vite*
 
 ## 📸 Preview
 
-> Add a screenshot or GIF here if available (optional but highly recommended)
+![image](https://github.com/user-attachments/assets/978e1e5a-4e21-45fe-840d-b1e4c2f1d915)
 
 ---
 
