@@ -5,7 +5,7 @@
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Framer Motion](https://img.shields.io/badge/FramerMotion-6.x-black.svg?logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
-A sleek and animated **Real Estate Landing Page** built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. Inspired by the clean UI and development techniques from the [GreatStack YouTube channel](https://www.youtube.com/@GreatStack).
+A sleek and animated **Real Estate Landing Page** built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. Inspired by the clean UI and development techniques from the [GreatStack YouTube channel](https://www.youtube.com/@GreatStackDev).
 
 ---
 
