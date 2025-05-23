@@ -1,69 +1,48 @@
-🏡 Estate — Real Estate Landing Page
-A sleek, modern real estate landing page built with React, powered by Vite, styled with Tailwind CSS, and animated using Framer Motion.
+# 🏡 Estate - Real Estate Landing Page
 
-Inspired by the awesome work from the GreatStack YouTube channel.
+[![Vite](https://img.shields.io/badge/Vite-4.x-purple.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-18.x-61DAFB.svg?logo=react&logoColor=white)](https://reactjs.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-38B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Framer Motion](https://img.shields.io/badge/FramerMotion-6.x-black.svg?logo=framer&logoColor=white)](https://www.framer.com/motion/)
 
-🚀 Tech Stack
-⚛️ React + Vite – Blazing fast frontend bundling with Hot Module Replacement (HMR)
+A sleek and animated **Real Estate Landing Page** built using **React**, **Vite**, **Tailwind CSS**, and **Framer Motion**. Inspired by the clean UI and development techniques from the [GreatStack YouTube channel](https://www.youtube.com/@GreatStack).
 
-🎨 Tailwind CSS – Utility-first CSS framework for styling
+---
 
-🎞️ Framer Motion – Fluid animations and transitions
+## 🚀 Features
 
-📁 Project Structure follows a clean, component-based architecture
+- ⚡️ Blazing-fast Vite + React setup
+- 🎨 Responsive and modern Tailwind CSS design
+- 🌀 Smooth animations powered by Framer Motion
+- 📱 Mobile-first UI
+- ✨ Clean folder structure for scalability
 
-🖼️ Features
-Hero section with CTA
+---
 
-Featured properties carousel
+## 📸 Preview
 
-Responsive grid layout for listings
+> Add a screenshot or GIF here if available (optional but highly recommended)
 
-Clean UI/UX with subtle animations
+---
 
-Fully responsive and mobile-friendly
+## 🛠️ Tech Stack
 
-📸 Preview
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
 
-Add a screenshot or GIF here once you have one.
+---
 
-🛠️ Getting Started
-Clone the repo:
+## 📦 Installation
 
-bash
-Copy
-Edit
+```bash
+# Clone the repository
 git clone https://github.com/your-username/estate-landing-page.git
 cd estate-landing-page
-Install dependencies:
 
-bash
-Copy
-Edit
+# Install dependencies
 npm install
-Start the dev server:
 
-bash
-Copy
-Edit
+# Run the app
 npm run dev
-⚙️ Scripts
-npm run dev – start development server
-
-npm run build – build for production
-
-npm run preview – preview production build
-
-npm run lint – run ESLint
-
-📦 Deployment
-You can deploy this site to Netlify, Vercel, or any static hosting platform.
-
-💡 Inspiration
-This project was inspired by a UI/UX tutorial from GreatStack. Check them out for awesome frontend content.
-
-📬 Feedback
-Have ideas or improvements? Feel free to fork or raise an issue!
-
-📄 License
-MIT — Do what you want, just don't sell it as-is and call it your own 😉
